@@ -1,0 +1,5 @@
+Ensemble Learning Method[Random Forest builds many Decision Trees and combines their results to improve accuracy and stability.]
+Reduces Overfitting[By averaging multiple trees, Random Forest performs better than a single Decision Tree and avoids overfitting.]
+Works for Both Tasks[It can be used for classification and regression, making it a versatile ML algorithm.]
+Handles Large & Complex Data Well[Random Forest performs well even with high-dimensional datasets and missing values.]
+Provides Feature Importance[It helps identify which features contribute most to predictions—useful for analysis and model tuning.]
